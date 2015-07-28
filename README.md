@@ -2,7 +2,7 @@
 
 This project refers to ``sweter``. If you are not familiar with ``sweter`` then take a look at [Sweter](https://github.com/msn0/sweter) first.
 
-By default `sweter` uses `sweter-console-reporter`. It reports `domInteractive` timings.
+By default `sweter` uses `sweter-console-reporter`.
 
 ## Installation
 
